@@ -39,11 +39,4 @@ For fast evaluation, experiments were run on a random subset:
 
 ---
 
-## ⚙️ Project Pipeline
 
-The workflow consists of four main steps:
-
-### 1. Download dataset from Kaggle
-
-```bash
-kaggle datasets download -d bratjay/ua-detrac-orig --unzip
